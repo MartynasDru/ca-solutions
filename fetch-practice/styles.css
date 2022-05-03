@@ -1,0 +1,28 @@
+html {
+    font-family: 'Arimo', sans-serif;
+}
+
+body {
+    background-color: #16a085;
+    color: #FEFB1E;
+    min-height: 100vh;
+}
+
+.quote-wrapper {
+    align-items: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.character-image {
+    height: 100px;
+}
+
+.wrapper {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    width: 200px;
+}
