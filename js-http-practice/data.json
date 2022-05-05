@@ -1,0 +1,34 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Name-1",
+            "lastName": "Surname-1",
+            "university": "University-1"
+        },
+        {
+            "id": 2,
+            "name": "Name-2",
+            "lastName": "Surname-2",
+            "university": "University-2"
+        },
+        {
+            "id": 3,
+            "name": "Name-3",
+            "lastName": "Surname-3",
+            "university": "University-3"
+        },
+        {
+            "id": 4,
+            "name": "Name-4",
+            "lastName": "Surname-4",
+            "university": "University-4"
+        },
+        {
+            "id": 5,
+            "name": "Name-5",
+            "lastName": "Surname-5",
+            "university": "University-5"
+        }
+    ]
+}

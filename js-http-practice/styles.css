@@ -1,0 +1,14 @@
+body {
+    padding: 20px 40px;
+}
+
+tr td:last-child {
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
+tr td:last-child:hover {
+    background-color: rgb(220, 53, 69);
+    color: white;
+}
